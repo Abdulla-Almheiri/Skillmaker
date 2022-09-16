@@ -412,20 +412,6 @@
                 },
                 "m_SlotId": 0
             }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "fa28feebd7a245358acc3c0ba39c94ef"
-                },
-                "m_SlotId": 2
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "dd3c05bc700b47d5bf0bf6452a5335ab"
-                },
-                "m_SlotId": 0
-            }
         }
     ],
     "m_VertexContext": {
@@ -643,8 +629,8 @@
     "m_TransparencyFog": true,
     "m_AlphaTestShadow": false,
     "m_BackThenFrontRendering": false,
-    "m_TransparentDepthPrepass": false,
-    "m_TransparentDepthPostpass": false,
+    "m_TransparentDepthPrepass": true,
+    "m_TransparentDepthPostpass": true,
     "m_SupportLodCrossFade": false
 }
 
@@ -1931,7 +1917,7 @@
     "m_ObjectId": "83ab191d20b94ed1a5ebe362fa1b8f5c",
     "m_MaterialNeedsUpdateHash": 0,
     "m_SurfaceType": 1,
-    "m_RenderingPass": 6,
+    "m_RenderingPass": 4,
     "m_BlendMode": 0,
     "m_ZTest": 4,
     "m_ZWrite": false,
