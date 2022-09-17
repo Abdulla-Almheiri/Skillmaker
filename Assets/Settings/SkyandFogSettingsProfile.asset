@@ -18,10 +18,10 @@ MonoBehaviour:
     m_Value: 2
   threshold:
     m_OverrideState: 1
-    m_Value: 9.36
+    m_Value: 0.19
   intensity:
     m_OverrideState: 1
-    m_Value: 0.33
+    m_Value: 0.122
   scatter:
     m_OverrideState: 0
     m_Value: 0.7
