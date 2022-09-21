@@ -86,7 +86,7 @@ Material:
     - _OpaqueCullMode: 2
     - _RenderQueueType: 4
     - _SmoothStepOpacityIn: 0
-    - _SmoothStepOpacityOut: 0.54
+    - _SmoothStepOpacityOut: 4.46
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 0
@@ -106,7 +106,7 @@ Material:
     - _TransparentSortPriority: 0
     - _TransparentWritingMotionVec: 0
     - _TransparentZWrite: 0
-    - _UVDistortionIntensity1: -5.28
+    - _UVDistortionIntensity1: -4.75
     - _UVDistortionIntensity2: 0.49
     - _UseShadowThreshold: 0
     - _ZTestDepthEqualForOpaque: 4
