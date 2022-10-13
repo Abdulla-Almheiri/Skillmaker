@@ -6,7 +6,7 @@ using Skillmaker.VFX;
 using UnityEngine.UIElements;
 using UnityEditor.UIElements;
 
-[CustomEditor(typeof(SkillmakerProjectileVFXScript))]
+//[CustomEditor(typeof(SkillmakerProjectileVFXScript))]
 public class ProjectileUIEditor : Editor
 {
     [HideInInspector]

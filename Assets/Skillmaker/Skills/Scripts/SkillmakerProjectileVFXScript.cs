@@ -9,6 +9,5 @@ namespace Skillmaker.VFX
         //[HideInInspector]
         public float Intensity = 0.5f;
 
-
     }
 }
