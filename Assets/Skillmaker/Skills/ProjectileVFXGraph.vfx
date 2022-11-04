@@ -8982,7 +8982,7 @@ MonoBehaviour:
     - _StencilRefGBuffer
     - _ZTestGBuffer
     m_PropertyValues:
-    - 4
+    - 3
     - 0
     - 0
     - 0

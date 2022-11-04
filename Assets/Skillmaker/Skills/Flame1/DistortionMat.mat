@@ -64,14 +64,14 @@ Material:
     - _AlphaSrcBlend: 1
     - _AlphaToMask: 0
     - _AlphaToMaskInspectorValue: 0
-    - _AnimationSpeed: 0.157
+    - _AnimationSpeed: 0.12
     - _BlendMode: 4
     - _ConservativeDepthOffsetEnable: 0
     - _CullMode: 2
     - _CullModeForward: 2
     - _DepthOffsetEnable: 0
-    - _DistortionAmount: 0.75
-    - _DistortionScale: 0.416
+    - _DistortionAmount: 0.426
+    - _DistortionScale: 0.271
     - _DoubleSidedEnable: 0
     - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 2
